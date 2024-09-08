@@ -66,8 +66,7 @@ Follow the steps below to install and run the Persian number recognition system 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repository.git
-   cd your-repository
+   git clone https://github.com/ParsaJahantab/Handwritten-Persian-Number-Recognition.git
    ```
    
 2. **copy the images next to the ipynb file**:
